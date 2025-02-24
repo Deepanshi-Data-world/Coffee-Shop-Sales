@@ -5,6 +5,14 @@ This project involves analyzing retail coffee sales data and creating an interac
 
 # Objective
 The primary objective of this project is to analyze retail sales data to extract meaningful insights that will aid in decision-making and business growth for the coffee shop.
+## Key Questions Explored  
+- How do sales vary by day of the week and hour of the day?  
+- Are there any peak times for sales activity?  
+- What is the total sales revenue for each month?  
+- How do sales vary across different store locations?  
+- What is the average price/order per person?  
+- Which products are the bestselling in terms of quantity and revenue?  
+- How do sales vary by product category and type? 
 
 # Data Analysis & Key Insights
 ## Sales Trends
